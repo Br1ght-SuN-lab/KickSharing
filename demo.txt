@@ -1,0 +1,18 @@
+-count
+-add-transport bike Велосипед-городской B-1 8
+-add-transport ebike Электровелосипед EB-1 7 0.4
+-add-transport escooter Электросамокат ES-1 6 0.6
+-add-transport scooter Самокат-ручной A-1 5 0.3
+-add-transport escooter Бракованный-расход ES-2 7 9.0
+-add-transport bike Кривой-номер B2 8
+-add-transport bike Плохая-простота B-3 15
+-add-transport escooter Дубликат-номера ES-1 6 0.5
+-add-item helmet Шлем H-1
+-add-item dockstation Док-станция D-1
+-add-item chargingcabinet Зарядный-шкаф C-1 2.0
+-add-item helmet Дубль-шлема H-1
+-count
+-total-energy
+-beginner-amount
+-list
+-exit
