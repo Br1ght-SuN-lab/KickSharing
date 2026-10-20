@@ -194,5 +194,4 @@ if err := app.Run(); err != nil {
 - `internal/domen/domen_test.go` — конструкторы и геттеры.
 - `internal/cli/app_test.go` — прогон `ConsoleApp` на наборе команд с проверкой
   вывода.
-#   K i c k S h a r i n g  
- 
+# KickSharing
